@@ -30,9 +30,10 @@ version once a week and asks before installing it.
 
 ## Privacy
 
-If you agree when Readiculous first asks, it sends an anonymous check-in once a week: a random number for
-your copy, the Readiculous version, the Windows (or Android) version and the language — on Android also the
-phone model. Never your name, your files or anything in them. You can turn it off any time in Settings.
+If you agree when Readiculous first asks, it sends a check-in once a week: a random number for your copy, the
+Readiculous version, the Windows (or Android) version and the language. On Android it also sends the phone
+model and the phone's name as set in its Settings (which may include your name) — the question shows the
+name before you answer. Never your files or anything in them. You can turn it off any time in Settings.
 
 ## Made by
 
