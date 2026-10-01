@@ -18,11 +18,21 @@ Readiculous checks this page once a week (you can change that in *Settings → U
 version is out it downloads it, checks it against its published fingerprint, and offers *Restart and
 update* — nothing is installed without your click.
 
+## Android
+
+A basic version for Android phones and tablets (Android 8.0 and newer): read, search (Arabic too), highlight,
+draw, sticky notes, rotate / move / delete / extract pages, add PDFs, save, share and print.
+
+Get it from the **[Android releases](../../releases?q=android&expanded=true)** — open
+**Readiculous-Android-x.y.z.apk** on the phone. Android asks once to allow installing apps from your browser
+or file manager: allow it, install, and you can switch it off again afterwards. The app checks for a new
+version once a week and asks before installing it.
+
 ## Privacy
 
 If you agree when Readiculous first asks, it sends an anonymous check-in once a week: a random number for
-your copy, the Readiculous version, the Windows version and the language. Never your name, your files or
-anything in them. You can turn it off any time in *Settings → Updates & privacy*.
+your copy, the Readiculous version, the Windows (or Android) version and the language — on Android also the
+phone model. Never your name, your files or anything in them. You can turn it off any time in Settings.
 
 ## Made by
 
