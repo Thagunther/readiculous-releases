@@ -24,7 +24,9 @@ A basic version for Android phones and tablets (Android 8.0 and newer): scan pap
 and make them searchable (text recognition in English and Arabic, on the phone) — named after what they say,
 like "Delivery Note DN-2026-0147 2026-10-02.pdf" — read, search (Arabic too), choose and copy text, sign
 (your signature, kept on the phone only), stamp (Approved, Paid, Received… or your own words, in any
-language), highlight, draw, sticky notes, rotate / move / delete / extract pages, add PDFs, save, share and print.
+language), highlight, draw, sticky notes, rotate / move / delete / extract pages (or drag them), add PDFs, save, share and print —
+and a **book mode** for reading: pages turned sideways (right to left for Arabic), full screen, margins cropped,
+paper / night colours, contents and bookmarks, two pages side by side, read aloud, and the text at your own size.
 
 Get it from the **[Android releases](../../releases?q=android&expanded=true)** — open
 **Readiculous-Android-x.y.z.apk** on the phone. Android asks once to allow installing apps from your browser
