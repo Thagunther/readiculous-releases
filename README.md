@@ -14,7 +14,7 @@ Get the latest version from **[Releases](../../releases/latest)**:
   Nothing is installed.
 - **SHA256SUMS.txt** — the fingerprints of both files.
 
-Readiculous checks this page once a week (you can change that in *Settings → Updates & privacy*). When a new
+Readiculous checks this page once a day (you can change that in *Settings → Updates & privacy*). When a new
 version is out it downloads it, checks it against its published fingerprint, and offers *Restart and
 update* — nothing is installed without your click.
 
@@ -31,7 +31,7 @@ paper / night colours, contents and bookmarks, two pages side by side, read alou
 Get it from the **[Android releases](../../releases?q=android&expanded=true)** — open
 **Readiculous-Android-x.y.z.apk** on the phone. Android asks once to allow installing apps from your browser
 or file manager: allow it, install, and you can switch it off again afterwards. The app checks for a new
-version once a week and asks before installing it.
+version once a day and asks before installing it.
 
 ## Privacy
 
